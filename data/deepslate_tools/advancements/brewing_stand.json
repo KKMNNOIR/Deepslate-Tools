@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "deepslate_tools:deepslate_brewing_stand"
+            }
+        }
+    },
+    "rewards": {
+        "function": "deepslate_tools:give/brewing_stand"
+    }
+}

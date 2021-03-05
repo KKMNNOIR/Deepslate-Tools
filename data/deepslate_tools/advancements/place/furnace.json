@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "used": {
+            "trigger": "placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:furnace",
+                    "nbt": "{display:{Name:'{\"translate\":\"deepslate_tools.item.deepslate_furnace\",\"italic\":false}'},CustomModelData:117}"
+                }
+            }
+        }
+    },
+    "rewards": { "function": "deepslate_tools:place/furnace" }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " R ",
+        "DDD"
+    ],
+    "key": {
+        "R": { "item": "blaze_rod" },
+        "D": { "item": "cobbled_deepslate" }
+    },
+    "result": {
+        "item": "knowledge_book"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/furnace",
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 117 },
+      "model": "item/deepslate/furnace_inventory"
+    },
+    {
+        "predicate": { "custom_model_data":1170 },
+        "model": "item/deepslate/furnace"
+    },
+    {
+        "predicate": { "custom_model_data":1171 },
+        "model": "item/deepslate/furnace_on"
+    }
+  ]
+}

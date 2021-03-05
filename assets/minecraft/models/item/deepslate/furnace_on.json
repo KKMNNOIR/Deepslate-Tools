@@ -1,0 +1,6 @@
+{
+    "parent": "item/deepslate/furnace",
+    "textures": {
+        "front": "block/deepslate_furnace_front_on"
+    }
+}

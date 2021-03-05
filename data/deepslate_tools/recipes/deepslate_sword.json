@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "D",
+        "D",
+        "S"
+    ],
+    "key": {
+        "D": { "item": "cobbled_deepslate" },
+        "S": { "item": "stick" }
+    },
+    "result": {
+        "item": "knowledge_book"
+    }
+}

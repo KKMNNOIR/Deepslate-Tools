@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "deepslate_tools:deepslate_shovel"
+            }
+        }
+    },
+    "rewards": {
+        "function": "deepslate_tools:give/shovel"
+    }
+}

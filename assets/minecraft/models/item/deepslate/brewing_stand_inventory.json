@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/brewing_stand",
+	"textures": {
+		"base": "block/deepslate_brewing_stand_base"
+    }
+}
