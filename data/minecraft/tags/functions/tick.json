@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "deepslate_tools:kill/furnace",
+        "deepslate_tools:change_rotation"
+    ]
+}
