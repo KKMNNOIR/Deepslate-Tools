@@ -4,7 +4,7 @@
             "trigger": "placed_block",
             "conditions": {
                 "item": {
-                    "item": "minecraft:furnace",
+                    "items": ["minecraft:furnace"],
                     "nbt": "{display:{Name:'{\"translate\":\"deepslate_tools.item.deepslate_furnace\",\"italic\":false}'},CustomModelData:117}"
                 }
             }

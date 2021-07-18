@@ -4,7 +4,7 @@
             "trigger": "placed_block",
             "conditions": {
                 "item": {
-                    "item": "minecraft:brewing_stand",
+                    "items": ["minecraft:brewing_stand"],
                     "nbt": "{display:{Name:'{\"translate\":\"deepslate_tools.item.deepslate_brewing_stand\",\"italic\":false}'},CustomModelData:117}"
                 }
             }
